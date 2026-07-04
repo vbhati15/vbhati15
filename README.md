@@ -1,10 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=150&section=header&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vaishnavi+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
-<h3 align="center">I debug code and cat behaviour equally</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20there,%20I'm%20Vaishnavi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20debug%20code%20and%20cat%20behaviour%20equally&descAlignY=55&descSize=18&descAlign=50" width="100%"/>
 
 <p align="center">
   <img src="./download.gif" alt="Download GIF" />
@@ -26,13 +21,11 @@
 
 Final-year CSE (AI/ML) student at JSS Academy of Technical Engineering, Noida — graduating 2027. I started out building full-stack products, and somewhere along the way got curios about RAG pipelines, LLM agents, and everything GenAI. These days I live in that overlap: shipping real products *and* teaching them to reason.
 
-I'm also VP of **Microsoft Mobile Innovation Labs (MMIL)**, where I run hackathons and workshops for a few hundred students a semester — turns out explaining a concept to a room full of confused freshers is the fastest way to actually understand it yourself.
-
 ---
 
 ### 🛠️ Tech I work with
 
-**Full-stack / Core**
+**Full-stack / Core**  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -40,7 +33,7 @@ I'm also VP of **Microsoft Mobile Innovation Labs (MMIL)**, where I run hackatho
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Exploring AI / GenAI**
+**Exploring AI / GenAI**  
 ![RAG](https://img.shields.io/badge/-RAG-FF6F61?style=flat-square)
 ![LLM](https://img.shields.io/badge/-LLM-412991?style=flat-square)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
@@ -49,7 +42,7 @@ I'm also VP of **Microsoft Mobile Innovation Labs (MMIL)**, where I run hackatho
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6366F1?style=flat-square)
 
-**Languages**
+**Languages**  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
