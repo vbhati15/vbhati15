@@ -6,7 +6,7 @@
 <h3 align="center">Full-stack dev who debugs code and cat behaviour equally</h3>
 
 <p align="center">
-  <img src="./download.gif" alt="Download GIF" />
+  <img src="./meow.gif" alt="CAT GIF" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 🧭 A quick intro
 
-Final-year CSE (AI/ML) student at JSS Academy of Technical Engineering, Noida — graduating 2027. I started out building full-stack products, and somewhere along the way got curios about RAG pipelines, LLM agents, and everything GenAI. These days I live in that overlap: shipping real products *and* teaching them to reason.
+Final-year CSE (AI/ML) student at JSS Academy of Technical Engineering, Noida, graduating in 2027. I started out building full-stack products, and somewhere along the way got curios about RAG pipelines, LLM agents, and everything GenAI. These days I live in that overlap: shipping real products *and* teaching them to reason.
 
 ---
 
