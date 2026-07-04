@@ -1,5 +1,9 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20there,%20I'm%20Vaishnavi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20debug%20code%20and%20cat%20behaviour%20equally&descAlignY=55&descSize=18&descAlign=50" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vaishnavi+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
+<h3 align="center">Full-stack dev who debugs code and cat behaviour equally</h3>
 
 <p align="center">
   <img src="./download.gif" alt="Download GIF" />
@@ -82,4 +86,4 @@ When I'm not shipping code, you'll probably find me knee-deep in a DSA problem I
 
 <p align="center"><i>Building over tutorials, always.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+
