@@ -1,13 +1,17 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=150&section=header&animation=fadeIn" width="100%"/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Hi%20there,%20I'm%20Vaishnavi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20dev%20who%20got%20curious%20about%20LLMs&descAlignY=55&descSize=18" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vaishnavi+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
+<h3 align="center">I debug code and cat behaviour equally</h3>
 
 <p align="center">
   <img src="./download.gif" alt="Download GIF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+full-stack+products+with+React+%2B+Next.js;Teaching+LLMs+to+reason+with+RAG+%26+Agents;VP+%40+Microsoft+Mobile+Innovation+Labs;Currently+shipping+PairSpace+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+full-stack+apps,+one+bug+at+a+time;Learning+ML+because+curiosity+won;VP+%40+Microsoft+Mobile+Innovation+Labs;Final-year+CSE+%40+JSSATE+%2727" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +24,7 @@
 
 ### 🧭 A quick intro
 
-Final-year CSE (AI/ML) student at JSS Academy of Technical Engineering, Noida — graduating 2027. I started out building full-stack products, and somewhere along the way got pulled into RAG pipelines, LLM agents, and everything GenAI. These days I live in that overlap: shipping real products *and* teaching them to reason.
+Final-year CSE (AI/ML) student at JSS Academy of Technical Engineering, Noida — graduating 2027. I started out building full-stack products, and somewhere along the way got curios about RAG pipelines, LLM agents, and everything GenAI. These days I live in that overlap: shipping real products *and* teaching them to reason.
 
 I'm also VP of **Microsoft Mobile Innovation Labs (MMIL)**, where I run hackathons and workshops for a few hundred students a semester — turns out explaining a concept to a room full of confused freshers is the fastest way to actually understand it yourself.
 
@@ -36,11 +40,14 @@ I'm also VP of **Microsoft Mobile Innovation Labs (MMIL)**, where I run hackatho
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**AI / GenAI**
+**Exploring AI / GenAI**
+![RAG](https://img.shields.io/badge/-RAG-FF6F61?style=flat-square)
+![LLM](https://img.shields.io/badge/-LLM-412991?style=flat-square)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat-square)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-8B5CF6?style=flat-square)
+![Transformers](https://img.shields.io/badge/-Transformers-FFB000?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6366F1?style=flat-square)
 
 **Languages**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -49,7 +56,7 @@ I'm also VP of **Microsoft Mobile Innovation Labs (MMIL)**, where I run hackatho
 
 ---
 
-### 🚀 Projects I'm proud of
+### 🔨 Stuff I've Made
 
 **[PairSpace](https://github.com/vbhati15/pairspace)** — a real-time collaborative code editor built on CRDTs (Y.js) instead of naive diffing, so multiple people can edit the same file without conflict resolution nightmares. Currently adding Docker-sandboxed code execution so you can actually *run* code inside a shared session, not just write it.
 `React` `Vite` `Monaco Editor` `Y.js` `Docker`
@@ -70,13 +77,13 @@ I'm also VP of **Microsoft Mobile Innovation Labs (MMIL)**, where I run hackatho
 
 ### 🔭 Currently exploring
 
-Deep in an 8-week self-designed roadmap through the GenAI/LLM stack — transformers, agentic AI, LLM security, MLOps for LLMs, and voice AI — mapping every concept back to a real project instead of just watching tutorials.
+More full-stack projects, deeper into DSA, and steadily building out my AI/ML foundations, one problem, one project, one paper at a time. Also just generally trying to figure out more meaning in life along the way, because apparently code isn't the answer to everything.
 
 ---
 
 ### 📚 Off-screen
 
-When I'm not shipping code, I'm usually deep in a book — literary fiction, sci-fi, or philosophy, always chasing the ones worth rereading. Also into bodyweight training; turns out debugging a stubborn CRDT merge conflict and holding a plank both require the same kind of stubbornness.
+When I'm not shipping code, you'll probably find me knee-deep in a DSA problem I refuse to give up on, or doing absolutely nothing productive like rewatching a movie I've already seen, losing an hour to Pinterest, or sketching something that'll never leave my notebook. Balancing life, apparently.
 
 ---
 
